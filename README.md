@@ -31,6 +31,7 @@ Con base en las respuestas, se calcula un **promedio emocional** y se genera un 
 ## 📁 Estructura del proyecto
 
 TuEstadoDeAnimo/
+
 ├── index.html # Página principal de la aplicación
 
 ├── style.css # Estilos personalizados
@@ -84,6 +85,7 @@ Proyecto académico. Su uso está destinado a fines educativos y de aprendizaje.
 ## 🙌 Autor
 
 Juan Pablo Santoyo Diaz
+
 Estudiante de Ingeniería de Software  
 Universidad de Santander – UDES  
 Docente: Jeison Mauricio Delgado González
