@@ -32,9 +32,13 @@ Con base en las respuestas, se calcula un **promedio emocional** y se genera un 
 
 TuEstadoDeAnimo/
 ├── index.html # Página principal de la aplicación
+
 ├── style.css # Estilos personalizados
+
 ├── preguntas.js # Contiene las 30 preguntas del test
+
 ├── app.js # Lógica del test, cálculo de promedio, historial, etc.
+
 └── README.md # Manual de usuario (este archivo)
 
 ---
